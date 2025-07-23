@@ -21,4 +21,7 @@ A simple and responsive Todo List web application built with **HTML**, **CSS**, 
 Just open `index.html` in your browser. No setup required.
 
 ## 📁 Project Structure
-
+/project-folder
+├── index.html
+├── style.css
+└── script.js
